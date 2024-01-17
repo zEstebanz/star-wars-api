@@ -34,7 +34,7 @@ function Api() {
 
     return (
         <section className='section-sec h-auto min-h-screen' id='section-sec'>
-            <h1 className='title'>Star Wars Characters</h1>
+            <h1 className='title text-4xl'>Characters</h1>
             <input
                 type="text"
                 placeholder="Search by name"
